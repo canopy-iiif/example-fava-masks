@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://canopy-iiif.github.io/example-fava-masks</loc><lastmod>2024-03-19T18:10:07.870Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/about</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/metadata</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/search</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/about/example</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/about/index</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/pulcinella-tiepolano</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/pulcinella-stronzo-o-arcigno</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/bravazzo</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/dottor-plus-quam-perfectus</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/francatrippa</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/grande-zanni</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/zagna-lunga</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/pantalone-classico</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/arlecchino-scimmia</loc><lastmod>2024-03-19T18:10:07.871Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/about</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/metadata</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/search</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/about/example</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/about/index</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/pulcinella-tiepolano</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/pulcinella-stronzo-o-arcigno</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/bravazzo</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/dottor-plus-quam-perfectus</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/francatrippa</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/grande-zanni</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/zagna-lunga</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/pantalone-classico</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://canopy-iiif.github.io/example-fava-masks/works/arlecchino-scimmia</loc><lastmod>2024-03-19T18:18:02.081Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
