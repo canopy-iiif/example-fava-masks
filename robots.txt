@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://canopy-iiif.github.io/canopy-iiif
+Host: https://canopy-iiif.github.io/example-fava-masks
 
 # Sitemaps
-Sitemap: https://canopy-iiif.github.io/canopy-iiif/sitemap.xml
+Sitemap: https://canopy-iiif.github.io/example-fava-masks/sitemap.xml
